@@ -1,7 +1,7 @@
 # Spring Cloud Alibaba Demo
 
 ## 组件&版本
-```aidl
+```
 <spring-boot.version>2.3.7.RELEASE</spring-boot.version>
 <spring-cloud-alibaba.version>2.2.2.RELEASE</spring-cloud-alibaba.version>
 <spring-cloud.version>Hoxton.SR9</spring-cloud.version>
@@ -13,14 +13,16 @@
 ### 服务发现
 - Nacos Discovery
 
-### 服务容错
-- Sentinel
-
 ### 网关
 - Spring Cloud Gateway
 
+### 服务容错
+- Sentinel
+
 ### 远程调用
 -  openfeign 2.2.5.RELEASE + spring-cloud-loadbalancer 2.2.5.RELEASE
+
+## 服务说明
 
 ### Alibaba 项目构建脚手架
 - https://start.aliyun.com/bootstrap.html?spm=a2ck6.17690074.0.0.503c2e7dZNc5fJ
